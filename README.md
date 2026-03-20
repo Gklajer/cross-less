@@ -1,4 +1,4 @@
-# Crossing-Minimal Point-Set Embedding Java Application
+# cross-less
 
 This Java application allows you to visualize and manipulate graphs with embedded points. It provides functionalities to apply random layouts, clustering layouts, and minimize crossings in the graph. The application utilizes a GUI interface to display the graph and points.
 
